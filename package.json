@@ -1,0 +1,20 @@
+{
+  "name": "gen-port",
+  "version": "1.0.0",
+  "description": "Generate a port",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "gen-port": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Chevalier Joyosentiko",
+  "license": "MIT",
+  "dependencies": {
+    "detect-port": "^1.6.1",
+    "nanoid": "^5.0.7"
+  }
+}
