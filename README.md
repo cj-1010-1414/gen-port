@@ -1,6 +1,6 @@
 # Generator Port
 
-Untuk memberikan port yang bisa digunakan untuk server web. Secara internal menggunakan `nanoid` untuk melakukan generasi empat angka yang akan dijadikan port. Lalu mendeteksinya menggunaan package `detect-port`.
+Untuk memberikan port yang bisa digunakan untuk server web Node.js. Secara internal menggunakan `nanoid` untuk menghasilkan empat angka yang akan dijadikan port. Lalu mendeteksinya menggunaan package `detect-port`.
 
 ## Memasang
 
