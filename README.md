@@ -2,7 +2,7 @@
 
 Untuk memberikan port yang bisa digunakan untuk server web
 
-# Memasang
+## Memasang
 
 Untuk memasang, lakukan ini di terminal:
 
@@ -20,7 +20,7 @@ bun add gen-port
 npm install gen-port
 ```
 
-# Memulai
+## Memulai
 
 Untuk menggunakan di _script_ anda:
 
@@ -33,7 +33,7 @@ const port = await gen_port()
 console.log(port)
 ```
 
-# Menggunakan CLI
+## Menggunakan CLI
 
 Bisa juga menggunakan CLI. Contoh:
 
@@ -48,16 +48,16 @@ bunx gen-port
 ```
 
 
-# Test
+## Test
 
 Script tes belum dibuat
 
-# Kesalahan atau _pull request_?
+## Kesalahan atau _pull request_?
 
 Laporkan jika kode jika terjadi _error_ atau nge-bug.
 
 Juga menerima _pull request_ atau saran penambahan fitur.
 
-# Lisensi
+## Lisensi
 
 MIT
