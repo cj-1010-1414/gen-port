@@ -8,7 +8,7 @@
     "gen-port": "./cli.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./index.test.js"
   },
   "keywords": [],
   "author": "Muhammad Chevalier Joyosentiko",
