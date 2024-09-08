@@ -14,7 +14,7 @@
   "author": "Muhammad Chevalier Joyosentiko",
   "license": "MIT",
   "dependencies": {
-    "detect-port": "^1.6.1",
-    "nanoid": "^5.0.7"
+    "detect-port": "1.6.1",
+    "nanoid": "5.0.7"
   }
 }
