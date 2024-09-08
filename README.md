@@ -58,6 +58,10 @@ Laporkan jika kode jika terjadi _error_ atau nge-bug.
 
 Juga menerima _pull request_ atau saran penambahan fitur.
 
+## TODO
+
+Menambahkan _type definition_ pada file `.d.ts`
+
 ## Lisensi
 
 MIT
