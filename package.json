@@ -10,6 +10,10 @@
   "scripts": {
     "test": "node ./index.test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cj-1010-1414/gen-port.git"
+  },
   "keywords": [],
   "author": "Muhammad Chevalier Joyosentiko",
   "license": "MIT",
