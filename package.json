@@ -1,6 +1,6 @@
 {
   "name": "@cj.1010.1414/gen-port",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Menghasilkan sebuah port yang bisa dipakai untuk aplikasi server web Node.js.",
   "type": "module",
   "main": "index.js",

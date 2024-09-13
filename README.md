@@ -1,5 +1,7 @@
 # Generator Port
 
+_Looking for English documentation? Here, [EN](README.en.md)_
+
 Untuk memberikan port yang bisa digunakan untuk server web Node.js. Secara internal menggunakan `nanoid` untuk menghasilkan empat angka yang akan dijadikan port. Lalu mendeteksinya menggunaan package `detect-port`.
 
 ## Memasang
